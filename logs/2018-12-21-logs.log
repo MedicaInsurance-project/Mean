@@ -1,0 +1,74 @@
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 11:24:58 AM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 11:24:58 AM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 11:25:21 AM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 3:29:56 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 3:31:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 3:31:30 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 3:31:54 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 4:27:49 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 4:28:00 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 4:29:30 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 4:33:30 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 4:40:46 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 4:42:22 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 5:41:19 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:12 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:12 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:36 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:36 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:36 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:36 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:36 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:36 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:36 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:58 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:58 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:58 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:58 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:58 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:58 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:43:58 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:44:57 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:44:57 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 5:44:57 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 5:45:46 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 6:27:31 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:02 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:02 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:02 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:02 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:02 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:02 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:02 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:44 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:44 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:44 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:44 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:44 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:44 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:28:44 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:29:06 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:29:06 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:29:06 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:29:06 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:29:06 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:29:06 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/21/2018, 6:29:06 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 6:29:07 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 6:37:01 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 7:06:21 PM"}
+{"message":"{\"name\":\"error\",\"length\":805,\"severity\":\"ERROR\",\"code\":\"42P01\",\"internalPosition\":\"355\",\"internalQuery\":\"SELECT u.Id,\\n             t.Type,\\n\\t\\t\\t u.Email,\\n\\t\\t\\t u.Address,\\n\\t\\t\\t u.Phone,\\n\\t\\t\\t da.ZipCode,\\n\\t\\t\\t da.Brand,\\n\\t\\t\\t s.Name,\\n\\t\\t\\t da.Make,\\n\\t\\t\\t da.DealerName,\\n\\t\\t\\t ca.ScreenName,\\n\\t\\t\\t ca.FirstName,\\n\\t\\t\\t ca.MiddleName,\\n\\t\\t\\t ca.LastName\\n      FROM   public.\\\"User\\\" as u \\n             LEFT JOIN public.\\\"UserType\\\" as t \\n                    ON u.TypeId = t.Id\\n\\t\\t\\t LEFT JOIN public.\\\"DealerAttributes\\\" as da\\n\\t\\t\\t\\t\\tON da.UserId = u.Id\\n\\t\\t\\t LEFT JOIN public.\\\"CustomerAttributes\\\" as ca\\n\\t\\t\\t\\t\\tON ca.UserId = u.Id\\n\\t\\t\\t LEFT JOIN public.\\\"State\\\" as s\\n\\t\\t\\t\\t\\tON s.Id = da.StateId\\n      WHERE  u.Email = p_email \\n             AND u.Password = p_password\",\"where\":\"PL/pgSQL function userlogin(text,text) line 16 at RETURN QUERY\",\"file\":\"parse_relation.c\",\"line\":\"1159\",\"routine\":\"parserOpenTable\"}","level":"error","timestamp":"12/21/2018, 7:07:52 PM"}
+{"message":"{\"name\":\"error\",\"length\":805,\"severity\":\"ERROR\",\"code\":\"42P01\",\"internalPosition\":\"355\",\"internalQuery\":\"SELECT u.Id,\\n             t.Type,\\n\\t\\t\\t u.Email,\\n\\t\\t\\t u.Address,\\n\\t\\t\\t u.Phone,\\n\\t\\t\\t da.ZipCode,\\n\\t\\t\\t da.Brand,\\n\\t\\t\\t s.Name,\\n\\t\\t\\t da.Make,\\n\\t\\t\\t da.DealerName,\\n\\t\\t\\t ca.ScreenName,\\n\\t\\t\\t ca.FirstName,\\n\\t\\t\\t ca.MiddleName,\\n\\t\\t\\t ca.LastName\\n      FROM   public.\\\"User\\\" as u \\n             LEFT JOIN public.\\\"UserType\\\" as t \\n                    ON u.TypeId = t.Id\\n\\t\\t\\t LEFT JOIN public.\\\"DealerAttributes\\\" as da\\n\\t\\t\\t\\t\\tON da.UserId = u.Id\\n\\t\\t\\t LEFT JOIN public.\\\"CustomerAttributes\\\" as ca\\n\\t\\t\\t\\t\\tON ca.UserId = u.Id\\n\\t\\t\\t LEFT JOIN public.\\\"State\\\" as s\\n\\t\\t\\t\\t\\tON s.Id = da.StateId\\n      WHERE  u.Email = p_email \\n             AND u.Password = p_password\",\"where\":\"PL/pgSQL function userlogin(text,text) line 16 at RETURN QUERY\",\"file\":\"parse_relation.c\",\"line\":\"1159\",\"routine\":\"parserOpenTable\"}","level":"error","timestamp":"12/21/2018, 7:07:53 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 7:44:53 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 7:45:04 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 7:45:34 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 7:46:15 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/21/2018, 7:46:20 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/21/2018, 7:52:13 PM"}

@@ -1,0 +1,6 @@
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/31/2018, 11:37:44 AM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/31/2018, 11:40:45 AM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/31/2018, 11:40:45 AM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/31/2018, 11:41:02 AM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/31/2018, 5:12:10 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/31/2018, 7:13:10 PM"}

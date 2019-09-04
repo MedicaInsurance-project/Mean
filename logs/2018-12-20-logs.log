@@ -1,0 +1,277 @@
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 1:07:25 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 1:24:56 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 2:05:33 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 2:15:03 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 2:23:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:02:15 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:04:09 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 3:04:24 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:05:17 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:05:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:06:55 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:08:41 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:16:27 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:22:57 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:23:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:25:30 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:25:41 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:29:44 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:33:15 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:35:31 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:36:52 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:37:03 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:38:24 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:38:37 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:40:09 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:40:15 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:40:39 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:40:43 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:41:44 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:41:56 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:43:02 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:43:06 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:48:37 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:48:53 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:50:26 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:50:32 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:50:33 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:50:34 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 3:50:35 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:56:28 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:56:50 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 3:56:52 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:00:10 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:00:31 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:00:31 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:00:31 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:00:31 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:01:34 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:01:39 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:02:04 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:13:36 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:13:47 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:14:00 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:14:32 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:14:36 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:15:05 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:17:51 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:17:55 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:21:32 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:21:41 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:24:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:27:33 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:27:58 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:28:51 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:29:43 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:30:00 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:30:00 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:31:31 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:31:46 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:33:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:33:52 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:34:49 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:35:03 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:35:22 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:35:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:36:22 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:38:38 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:38:58 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:39:22 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:41:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:42:32 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:43:22 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:45:41 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:47:04 PM"}
+{"message":"connected to the postgresql db","level":"info","timestamp":"12/20/2018, 4:47:08 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:48:01 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:48:24 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:49:17 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:49:58 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:52:07 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:52:16 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 4:52:19 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:55:20 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 4:55:23 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 4:55:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 4:59:04 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:00:07 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:00:11 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:00:30 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:00:36 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:00:36 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:02:03 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:02:06 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:02:06 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:05:08 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:05:17 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:05:36 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:05:42 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:06:51 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:06:56 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:09:46 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:09:50 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:14:16 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:14:20 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:14:48 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:14:51 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:15:02 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:15:34 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:15:40 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:15:41 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:16:04 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:16:08 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:16:08 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:16:48 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:16:51 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:16:51 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:18:58 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:20:09 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:22:32 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:23:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:24:09 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:24:15 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:24:16 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:25:51 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:26:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:27:09 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:27:20 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:27:51 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:27:58 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:28:25 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:29:01 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:29:16 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:29:19 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:30:16 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:30:20 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:30:50 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:30:55 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:30:58 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:31:02 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:31:12 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:31:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:32:40 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:32:43 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:33:10 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:33:14 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:33:16 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:33:18 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:33:21 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:33:24 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:33:41 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:33:45 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:34:10 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:34:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:34:50 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:34:59 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:44:47 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:45:14 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:45:56 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:46:17 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:46:27 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:46:29 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:46:30 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:46:47 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:47:04 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:47:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:50:10 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:50:14 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 5:50:20 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:50:39 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:55:19 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:55:34 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:55:42 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:56:21 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:56:33 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:56:53 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:57:20 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:57:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:57:48 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 5:57:51 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 5:58:41 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 6:00:34 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 6:02:48 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 6:02:51 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 6:02:54 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 6:03:01 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 6:29:03 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 6:29:12 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 6:29:17 PM"}
+{"message":"{\"code\":\"ECONNCLOSED\",\"name\":\"ConnectionError\"}","level":"error","timestamp":"12/20/2018, 6:53:38 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 6:54:05 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 7:11:47 PM"}
+{"message":"{\"name\":\"error\",\"length\":220,\"severity\":\"ERROR\",\"code\":\"42883\",\"hint\":\"No function matches the given name and argument types. You might need to add explicit type casts.\",\"position\":\"15\",\"file\":\"parse_func.c\",\"line\":\"528\",\"routine\":\"ParseFuncOrColumn\"}","level":"error","timestamp":"12/20/2018, 8:26:36 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:40:18 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:40:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:41:05 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:41:08 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:41:27 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:41:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:41:47 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:41:53 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:49:41 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:49:45 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:50:12 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:50:16 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 8:50:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:50:30 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:53:55 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:53:58 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:54:33 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:54:44 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 8:55:19 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 8:55:29 PM"}
+{"message":"{\"code\":\"ECONNCLOSED\",\"name\":\"ConnectionError\"}","level":"error","timestamp":"12/20/2018, 8:56:46 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:01:37 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:02:22 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:03:36 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:03:46 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:03:46 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:04:46 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:04:52 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:07:36 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:07:41 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:07:41 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:08:57 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:09:04 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:09:04 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:09:28 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:11:51 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:12:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:13:28 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:13:47 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:13:47 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:16:18 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:16:23 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:17:48 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:17:52 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:17:52 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:18:59 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:19:10 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:19:10 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:20:17 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:23:34 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:23:36 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:23:38 PM"}
+{"message":"{}","level":"error","timestamp":"12/20/2018, 9:23:48 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:24:11 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:24:16 PM"}
+{"message":"\"ReferenceError: sql is not defined\\n    at D:\\\\agrater\\\\dal\\\\DealerDal.js:24:126\\n    at process._tickCallback (internal/process/next_tick.js:68:7)\"","level":"error","timestamp":"12/20/2018, 9:24:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:24:56 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:25:04 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:25:42 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:25:48 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:26:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:29:39 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:32:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:32:37 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:32:43 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:33:02 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:35:43 PM"}
+{"message":"\"error: function cconcat(unknown, text, unknown) does not exist\\n    at Connection.parseE (D:\\\\agrater\\\\node_modules\\\\pg\\\\lib\\\\connection.js:554:11)\\n    at Connection.parseMessage (D:\\\\agrater\\\\node_modules\\\\pg\\\\lib\\\\connection.js:379:19)\\n    at Socket.<anonymous> (D:\\\\agrater\\\\node_modules\\\\pg\\\\lib\\\\connection.js:119:22)\\n    at Socket.emit (events.js:182:13)\\n    at addChunk (_stream_readable.js:283:12)\\n    at readableAddChunk (_stream_readable.js:264:11)\\n    at Socket.Readable.push (_stream_readable.js:219:10)\\n    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)\"","level":"error","timestamp":"12/20/2018, 9:35:43 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:36:15 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:36:18 PM"}
+{"message":"{\"name\":\"error\",\"length\":1065,\"severity\":\"ERROR\",\"code\":\"42883\",\"hint\":\"No function matches the given name and argument types. You might need to add explicit type casts.\",\"internalPosition\":\"436\",\"internalQuery\":\"SELECT u.Id,\\n             da.DealerName,\\n             u.Address,\\n             u.Phone,\\n             da.ZipCode,\\n             da.Brand,\\n             da.Make\\n\\t\\t\\t\\n      FROM   public.\\\"User\\\" as u \\n             INNER JOIN public.\\\"UserType\\\" as ut \\n                ON ut.id = u.TypeId AND ut.Type = 'Dealer'\\n\\t\\t\\t INNER JOIN public.\\\"DealerAttributes\\\" AS da\\n\\t\\t\\t\\tON da.UserId = u.Id\\n\\t\\t\\t\\t\\t\\n\\t WHERE\\tda.DealerName\\tLIKE\\t(CASE WHEN p_name != '' THEN  cconcat('%', p_name, '%') ELSE da.DealerName END )\\n\\t AND\\tda.Brand \\t\\tLIKE\\t(CASE WHEN p_brand != '' THEN  concat('%', p_brand, '%') ELSE da.Brand END)\\n\\t AND\\tda.StateId\\t\\t=\\t\\t(CASE WHEN p_stateId != -1 THEN p_stateId  ELSE da.StateId END )\\n\\t AND\\tda.ZipCode\\t\\t=\\t\\t(CASE WHEN p_zipCode != -1 THEN p_zipCode  ELSE da.ZipCode END )\",\"where\":\"PL/pgSQL function dealersearch(text,text,integer,integer) line 15 at RETURN QUERY\",\"file\":\"parse_func.c\",\"line\":\"528\",\"routine\":\"ParseFuncOrColumn\"}","level":"error","timestamp":"12/20/2018, 9:36:18 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:37:06 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/20/2018, 9:37:40 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:37:58 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/20/2018, 9:38:03 PM"}

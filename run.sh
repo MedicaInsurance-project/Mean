@@ -1,0 +1,1 @@
+DEBUG=comments:* npm start

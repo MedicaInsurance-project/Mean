@@ -1,0 +1,36 @@
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 12:11:01 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 12:49:32 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 12:54:41 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 12:55:28 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 1:05:08 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 1:20:49 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 1:21:21 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:17:38 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:18:53 PM"}
+{"message":"{\"name\":\"error\",\"length\":298,\"severity\":\"ERROR\",\"code\":\"42702\",\"detail\":\"It could refer to either a PL/pgSQL variable or a table column.\",\"internalPosition\":\"8\",\"internalQuery\":\"SELECT Id\\n      FROM   public.User\\n      WHERE  Email = p_email\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"pl_comp.c\",\"line\":\"1079\",\"routine\":\"plpgsql_post_column_ref\"}","level":"error","timestamp":"12/25/2018, 8:18:53 PM"}
+{"message":"{\"name\":\"error\",\"length\":298,\"severity\":\"ERROR\",\"code\":\"42702\",\"detail\":\"It could refer to either a PL/pgSQL variable or a table column.\",\"internalPosition\":\"8\",\"internalQuery\":\"SELECT Id\\n      FROM   public.User\\n      WHERE  Email = p_email\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"pl_comp.c\",\"line\":\"1079\",\"routine\":\"plpgsql_post_column_ref\"}","level":"error","timestamp":"12/25/2018, 8:20:49 PM"}
+{"message":"{\"name\":\"error\",\"length\":262,\"severity\":\"ERROR\",\"code\":\"42804\",\"detail\":\"Returned type bigint does not match expected type integer in column 1.\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"tupconvert.c\",\"line\":\"113\",\"routine\":\"convert_tuples_by_position\"}","level":"error","timestamp":"12/25/2018, 8:22:55 PM"}
+{"message":"{\"name\":\"error\",\"length\":262,\"severity\":\"ERROR\",\"code\":\"42804\",\"detail\":\"Returned type bigint does not match expected type integer in column 1.\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"tupconvert.c\",\"line\":\"113\",\"routine\":\"convert_tuples_by_position\"}","level":"error","timestamp":"12/25/2018, 8:22:56 PM"}
+{"message":"{\"name\":\"error\",\"length\":259,\"severity\":\"ERROR\",\"code\":\"42804\",\"detail\":\"Returned type bigint does not match expected type text in column 1.\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"tupconvert.c\",\"line\":\"113\",\"routine\":\"convert_tuples_by_position\"}","level":"error","timestamp":"12/25/2018, 8:23:35 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:24:45 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:24:48 PM"}
+{"message":"{\"name\":\"error\",\"length\":259,\"severity\":\"ERROR\",\"code\":\"42804\",\"detail\":\"Returned type bigint does not match expected type text in column 1.\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"tupconvert.c\",\"line\":\"113\",\"routine\":\"convert_tuples_by_position\"}","level":"error","timestamp":"12/25/2018, 8:24:48 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:25:21 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:26:03 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:27:25 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:27:42 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:27:46 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:27:57 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:28:01 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:28:17 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:28:21 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:28:53 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:30:39 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:30:55 PM"}
+{"message":"{\"name\":\"error\",\"length\":210,\"severity\":\"ERROR\",\"code\":\"42883\",\"hint\":\"No function matches the given name and argument types. You might need to add explicit type casts.\",\"position\":\"15\",\"file\":\"parse_func.c\",\"line\":\"528\",\"routine\":\"ParseFuncOrColumn\"}","level":"error","timestamp":"12/25/2018, 8:31:10 PM"}
+{"message":"{\"name\":\"error\",\"length\":210,\"severity\":\"ERROR\",\"code\":\"42883\",\"hint\":\"No function matches the given name and argument types. You might need to add explicit type casts.\",\"position\":\"15\",\"file\":\"parse_func.c\",\"line\":\"528\",\"routine\":\"ParseFuncOrColumn\"}","level":"error","timestamp":"12/25/2018, 8:31:56 PM"}
+{"message":"{\"name\":\"error\",\"length\":210,\"severity\":\"ERROR\",\"code\":\"42883\",\"hint\":\"No function matches the given name and argument types. You might need to add explicit type casts.\",\"position\":\"15\",\"file\":\"parse_func.c\",\"line\":\"528\",\"routine\":\"ParseFuncOrColumn\"}","level":"error","timestamp":"12/25/2018, 8:31:57 PM"}
+{"message":"{\"name\":\"error\",\"length\":298,\"severity\":\"ERROR\",\"code\":\"42702\",\"detail\":\"It could refer to either a PL/pgSQL variable or a table column.\",\"internalPosition\":\"8\",\"internalQuery\":\"SELECT Id\\n      FROM   public.User\\n      WHERE  Email = p_email\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"pl_comp.c\",\"line\":\"1079\",\"routine\":\"plpgsql_post_column_ref\"}","level":"error","timestamp":"12/25/2018, 8:32:00 PM"}
+{"message":"{\"name\":\"error\",\"length\":298,\"severity\":\"ERROR\",\"code\":\"42702\",\"detail\":\"It could refer to either a PL/pgSQL variable or a table column.\",\"internalPosition\":\"8\",\"internalQuery\":\"SELECT Id\\n      FROM   public.User\\n      WHERE  Email = p_email\",\"where\":\"PL/pgSQL function emailexists(text) line 14 at RETURN QUERY\",\"file\":\"pl_comp.c\",\"line\":\"1079\",\"routine\":\"plpgsql_post_column_ref\"}","level":"error","timestamp":"12/25/2018, 8:32:02 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/25/2018, 8:47:53 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/25/2018, 8:48:19 PM"}

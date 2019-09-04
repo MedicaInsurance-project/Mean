@@ -1,0 +1,53 @@
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 11:54:43 AM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 11:54:50 AM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 12:07:02 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 12:07:04 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 12:08:46 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 12:08:59 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 12:09:59 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 12:10:03 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 1:07:12 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 1:07:14 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 1:10:49 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 1:12:57 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 1:13:10 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 1:13:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 1:13:31 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 1:13:40 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 1:21:16 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 1:26:25 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 3:08:55 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 3:09:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 3:09:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 3:09:23 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 3:09:53 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 3:09:53 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 3:09:53 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 3:23:43 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 3:25:20 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 3:41:57 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 3:43:09 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 3:43:33 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 3:45:11 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 3:45:13 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 4:06:17 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 4:06:22 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 4:06:29 PM"}
+{"message":"{\"code\":\"ECONNCLOSED\",\"name\":\"ConnectionError\"}","level":"error","timestamp":"12/24/2018, 4:06:35 PM"}
+{"message":"{\"code\":\"ECONNCLOSED\",\"name\":\"ConnectionError\"}","level":"error","timestamp":"12/24/2018, 4:06:38 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 4:29:48 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 4:29:54 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 4:31:10 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 4:31:27 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 4:31:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 4:33:01 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 5:05:16 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 5:34:16 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 5:34:40 PM"}
+{"message":"{\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"52.15.233.81\",\"port\":5432}","level":"error","timestamp":"12/24/2018, 5:34:40 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 5:34:44 PM"}
+{"message":"{\"name\":\"error\",\"length\":203,\"severity\":\"ERROR\",\"code\":\"42883\",\"hint\":\"No function matches the given name and argument types. You might need to add explicit type casts.\",\"position\":\"15\",\"file\":\"parse_func.c\",\"line\":\"528\",\"routine\":\"ParseFuncOrColumn\"}","level":"error","timestamp":"12/24/2018, 5:35:03 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 5:36:27 PM"}
+{"message":"DATABASE: Connection is created.","level":"info","timestamp":"12/24/2018, 5:36:29 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 7:08:54 PM"}
+{"message":"STARTING FOR ENVIRONMENT: localhost","level":"info","timestamp":"12/24/2018, 7:17:28 PM"}
